@@ -1,1 +1,1 @@
-### This repository includes assignments of harkirat's 100x Devs cohort
+### This repository includes weekly assignments of harkirat's 100x Devs cohort
